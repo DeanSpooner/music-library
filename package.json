@@ -1,0 +1,23 @@
+{
+  "name": "music-library",
+  "version": "1.0.0",
+  "description": "This project aims to create an app for managing a music library, implementing SQL, databases and express.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeanSpooner/music-library.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeanSpooner/music-library/issues"
+  },
+  "homepage": "https://github.com/DeanSpooner/music-library#readme",
+  "devDependencies": {
+    "eslint": "^7.25.0"
+  }
+}
