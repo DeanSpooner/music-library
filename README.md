@@ -168,7 +168,7 @@ PORT=3000
 
 ## By Dean Spooner and Manchester Codes
 
-[Dean Spooner](https://github.com/DeanSpooner)
+[Dean Spooner](https://github.com/DeanSpooner)\
 [Manchester Codes](https://github.com/MCRCodes)
 
 ## Version History
