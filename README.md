@@ -38,7 +38,7 @@ PORT=3000
 | URI                                         | Request Method | CRUD     | What does it do?                                                                         |
 | ------------------------------------------- | -------------- | -------- | ---------------------------------------------------------------------------------------- |
 | [/artist](#list-all-artists)                | `GET`          | `READ`   | Generate a list of all artists in the database's `Artists` table.                        |
-| [/artist][/artist](#create-new-artist)      | `POST`         | `CREATE` | Adds an artist to the table in the database.                                             |
+| [/artist](#create-new-artist)               | `POST`         | `CREATE` | Adds an artist to the table in the database.                                             |
 | [/artist/\*](#get-artist-by-id)             | `GET`          | `READ`   | Fetches the artist from the database's `Artists` table with the same \* ID (an integer). |
 | [/artist/\*](#update-existing-artist-by-id) | `PATCH`        | `UPDATE` | Updates the artist with the matching \* ID.                                              |
 | [/artist/\*](#delete-artist-by-id)          | `DELETE`       | `DELETE` | Deletes the artist with the matching \* ID.                                              |
